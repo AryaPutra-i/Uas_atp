@@ -1,7 +1,7 @@
 
 From node:20-alpine
 
-mkdir /app
+mkdir app
 
 workdir /app
 
